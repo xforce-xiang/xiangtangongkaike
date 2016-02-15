@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "相册轮播器", "相册轮播器\相册轮播器.csproj", "{762A93A6-65B3-46A0-9442-6A24BAFBA405}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "二维码生成器", "二维码生成器\二维码生成器.csproj", "{AD215055-E0B0-4F1F-95A0-E32DCAF37AD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "验证码中级", "CKey\验证码中级.csproj", "{B3EDA6C1-3CF2-46EC-B681-76A5AF98FC57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "验证码初试", "SKey\验证码初试.csproj", "{460CF385-7F0B-4032-980E-0C8EA4716CCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "文件加密", "文件加密\文件加密.csproj", "{13D8093B-DE0D-4510-B34F-74C964612D26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{762A93A6-65B3-46A0-9442-6A24BAFBA405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{762A93A6-65B3-46A0-9442-6A24BAFBA405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{762A93A6-65B3-46A0-9442-6A24BAFBA405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{762A93A6-65B3-46A0-9442-6A24BAFBA405}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD215055-E0B0-4F1F-95A0-E32DCAF37AD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD215055-E0B0-4F1F-95A0-E32DCAF37AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD215055-E0B0-4F1F-95A0-E32DCAF37AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD215055-E0B0-4F1F-95A0-E32DCAF37AD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3EDA6C1-3CF2-46EC-B681-76A5AF98FC57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3EDA6C1-3CF2-46EC-B681-76A5AF98FC57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3EDA6C1-3CF2-46EC-B681-76A5AF98FC57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3EDA6C1-3CF2-46EC-B681-76A5AF98FC57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{460CF385-7F0B-4032-980E-0C8EA4716CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{460CF385-7F0B-4032-980E-0C8EA4716CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{460CF385-7F0B-4032-980E-0C8EA4716CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{460CF385-7F0B-4032-980E-0C8EA4716CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13D8093B-DE0D-4510-B34F-74C964612D26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13D8093B-DE0D-4510-B34F-74C964612D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13D8093B-DE0D-4510-B34F-74C964612D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13D8093B-DE0D-4510-B34F-74C964612D26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
